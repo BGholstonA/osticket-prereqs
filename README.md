@@ -27,15 +27,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - MySQL
 - Heidi SQL
 - osTicket v1.15.8
-- Link to downloads: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
+- Download Folder: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
 
 <h2>Installation Steps</h2>
 
 
-1.) The first thing you are going to want to do is create a virtual machine by going to https://portal.azure.com/. Setup your virtual machine with Windows 10 Pro, version 22H2. Note, you will want to create a virtual machine with atleast 2 vcpus and 16 gbs of memory.
+1.) First thing you will need to do is head to https://portal.azure.com and create a account. You then will want to set up and create a virtual machine, on the top you can search virtual machine and add a new one. Be sure to select Windows 10 (21H2) OS when setting up your virtual machine.
 
-2.) Once you have created your virtual machine you will want to conncet to it by using the public ip address the vm is setup with. You will connect using the remote desktop connection app. 
+2.) When azure has finished deploying your virtual machine you will then open the folder and copy the public IP/Internet Protocol address to your clipboard (CTRL C)(Right click & copy)(Click the 2 squares)
+
+3.) You will now open Remote desktop connection and paste the IP/Internet Protocol address you coppied from azure into the computer text input and connect!
 </p>
 <br />
 
