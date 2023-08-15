@@ -247,7 +247,7 @@ Select a principal
 <p>
   
   
- Type "Everyone" in the box.
+ Type "Everyone" in the box.(Optional)
   
 <p>
 <img src="https://imgur.com/F4H3ppM.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
