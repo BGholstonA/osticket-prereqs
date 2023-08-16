@@ -41,8 +41,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<p>
-<img src="https://imgur.com/MAhXK2e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ ![image](https://github.com/BGholstonA/osticket-prereqs/assets/142282330/5109a1bd-4cb7-45d8-993b-43453b369e6e)>
+
+
 </p>
 <p>
 <p>
@@ -50,10 +51,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
   
-3.) Once you have connected to your virtual machine you will want to go to your control panel. From the control panel open up programs. Select, Turn Windows features on and off.
+3.) You will be connected to your VM now! Click the windows key and type "Control Panel" in the input bar. Here you should see something named "Programs", click it and then click "Turn Windows feautures on or off"
 
 <p>
-<img src="https://imgur.com/fGXMpx4.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/BGholstonA/osticket-prereqs/assets/142282330/5d06b193-58fb-4737-922b-305d51d99569)
+
+
 </p>
 <p>
   
@@ -77,7 +81,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
   
-***NOTE*** Make sure all Common HTTP Features are checked.
+***NOTE:*** Check all the boxes within the "Common HTTP Feautures" folder.
  
  To make sure the IIS is installed / enabled go to a browser of your choice and search for 127.0.0.1 
   It should look something like this. 
